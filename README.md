@@ -21,6 +21,12 @@ direnv allow
 
 Entrypoint for the autotask is located in `src/handler.ts`
 
+#### ID
+
+```
+export AUTOTASK_ID=1bd7d892-abde-4f66-82f2-f785aaa67117
+```
+
 #### Test
 
 To test your autotask locally, run the command:

@@ -12,3 +12,6 @@ export DEFENDER_TEAM_API_KEY=
 
 # Defender API secret
 export DEFENDER_TEAM_SECRET_KEY=
+
+# Optimism RPC URL
+export OPTIMISM_MAINNET_PROVIDER_URL=
